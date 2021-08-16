@@ -1,0 +1,18 @@
+---
+name: CeEdit
+main: LunarMoon72\CeFormTest\Main
+api: 3.21.1
+mcpe-protocal: 448
+version: 0.0.1
+
+commands:
+  ceedit:
+   description: This is a test
+   aliases: test5
+   permission: ceedit.cmd
+  
+permissions:
+  ceedit.cmd:
+   description: This is perm
+   default: op
+...
